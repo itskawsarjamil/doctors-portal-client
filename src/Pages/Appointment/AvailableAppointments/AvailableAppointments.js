@@ -59,6 +59,3 @@ const AvailableAppointments = ({ selectedDate }) => {
 };
 
 export default AvailableAppointments;
-
-
-{/* <BookingModal treatment={treatment} selectedDate={selectedDate} setTreatment={setTreatment}></BookingModal> */ }
